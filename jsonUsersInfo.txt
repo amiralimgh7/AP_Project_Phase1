@@ -1,0 +1,1 @@
+{"Guy2":{"username":"Guy2","password":"123","nickname":"me2","userScore":1000,"userCoin":109200,"userAllCards":{},"userAllDecks":{},"activeDeck":""},"Guy":{"username":"Guy","password":"123","nickname":"me","userScore":2000,"userCoin":142366,"userAllCards":{},"userAllDecks":{},"activeDeck":""}}
